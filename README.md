@@ -691,7 +691,7 @@ This project is built as part of **Internship Purpose**. All rights reserved.
 
 _For **Internship Purpose**_
 
-[![GitHub](https://img.shields.io/badge/GitHub-Harmitx7/odoo-181717?style=flat-square&logo=github)](https://github.com/KenishHirpara/CoreInventory)
+[![GitHub](https://img.shields.io/badge/GitHub-KenishHirpara/CoreInventory-181717?style=flat-square&logo=github)](https://github.com/KenishHirpara/CoreInventory)
 
 _CoreInventory — Where precision meets elegance in warehouse management._
 
