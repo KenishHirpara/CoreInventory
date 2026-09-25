@@ -679,7 +679,7 @@ odoo/
 
 ## 📄 License
 
-This project is built as part of **Odoo x Indus Hackathon**. All rights reserved.
+This project is built as part of **Internship Purpose**. All rights reserved.
 
 ---
 
@@ -687,7 +687,7 @@ This project is built as part of **Odoo x Indus Hackathon**. All rights reserved
 
 <img src="https://img.icons8.com/color/48/handshake.png" width="36" alt="team" />
 
-### Built with ❤️ by **Jenil Soni** · **Harmit Kalal** · **Aarth Patel**
+### Built with ❤️ by **Kenish Hirpara** 
 
 _For **Odoo x Indus Hackathon**_
 
